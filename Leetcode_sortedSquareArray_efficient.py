@@ -1,3 +1,4 @@
+# Time = O(n) Space = O(n)
 def sorted_squared(array):
     #write code here.make sure to return desired array
     n = len(array)

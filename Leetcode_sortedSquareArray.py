@@ -1,3 +1,4 @@
+# Time = O(n logn) Space = O(n)
 #Sorted Squared Array
 def sorted_squared(array):
         n = len(array)
